@@ -1,8 +1,5 @@
-
-"""
-
-4 * 100 - 54.
-"""
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 def arithmetic():
     # Запишим значение ответа пользователя в память
     get_user_number = int(input("4 * 100 - 54 = напишите ответ: "))
