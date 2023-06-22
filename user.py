@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 def get_your_live(name, age):
     # Запишим введеный текст в память
     your_live = str(input("Where are you live: "))
