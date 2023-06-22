@@ -9,7 +9,6 @@ def get_your_live(name, age):
         print(f"This is {name}\n"
               f"It is {age}\n"
               f"(S)he live in {your_live}")
-        input("")
         # Если есть другие символы - вернем к вводу текста
     else:
         get_your_live(name, age)
