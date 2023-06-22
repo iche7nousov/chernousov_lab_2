@@ -16,8 +16,6 @@ def numbers():
     last_sum = three + four
     answer = first_sum / last_sum
     print("%.2f" % answer)
-    input("")
-
 
 # Если объект __name__ равен __main__ запускаем наш код
 if __name__ == "__main__":
